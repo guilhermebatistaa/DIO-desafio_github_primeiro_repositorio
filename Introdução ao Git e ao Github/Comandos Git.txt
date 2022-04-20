@@ -1,0 +1,13 @@
+# 	Comandos básicos:
+
+**cd** nomepasta // para entrar na pasta
+**cd** .. //para voltar a pasta
+**dir** //para listar conteúdo da pasta atual
+**mkdir nomepasta** //para criar a pasta
+**del** nomepasta //para deletar o conteúdo da pasta
+**rmdir** nomepasta //para deletar a pasta e seu conteúdo
+**cls ou clear** //para limpar a tela/prompt
+
+### Extras:
+*Tecla Tab*: Auto completa o nome de pasta ou comando
+*Tecla Cima*: Seleciona comandos anteriormente executados
